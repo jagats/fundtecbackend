@@ -52,10 +52,9 @@ npm test
 ## Deployment
 1. Deploy to a platform like Render
 2. Set environment variables in the deployment platform
-3. Example deployment URL: `https://stock-trading-portal.herokuapp.com`
+3. Example deployment URL: `https://fundtecbackend-3.onrender.com`
 4. Login credentials:
-   - ID: admin
-   - Password: password123
+   - **Note**: This API does not implement authentication. No login credentials are required to access the endpoints. The API is openly accessible for testing purposes.
 
 ## Project Structure
 ```
