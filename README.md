@@ -22,7 +22,7 @@ npm install
 
 3. Create a `.env` file in the root directory with:
 ```env
-MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/stock_trading?retryWrites=true&w=majority
+MONGODB_URI=mongodb+srv://jagatsinghsaatna:nZpiMuKfbVW8al4Y@cluster0.aeynocu.mongodb.net/stock_trading?retryWrites=true&w=majority&appName=Cluster0
 PORT=3000
 ```
 
